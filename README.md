@@ -1,2 +1,2 @@
 # no-code-review-poc
-Example without code-owners
+Example without code-owners.
